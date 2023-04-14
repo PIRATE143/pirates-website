@@ -1,0 +1,33 @@
+body{
+    background:linear-gradient(to top,skyblue,lightgreen)
+   
+}
+h3{
+    background-color: aquamarine; 
+
+}
+p{
+    background-color:rgb(102, 171, 192);
+    border-style:outset;
+    border-width:5px;
+    border-color:rgb(60, 56, 168);
+    border-radius:10px;
+    padding :5px;
+    
+}
+a{
+    border-style:outset;
+    border-width:5px;
+    border-color:gold;
+    border-radius:10px;
+    padding :5px;
+}
+h2{
+    background-color:burlywood;
+    border-style:outset;
+    border-width:5px;
+    border-color:rgb(190, 68, 111);
+    border-radius:10px;
+    padding :5px;
+
+}
